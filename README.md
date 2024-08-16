@@ -41,6 +41,3 @@ Feel free to fork this repository, submit issues, and make pull requests if you 
 - **Turtle Graphics**: For visual rendering
 - **Colorsys**: For managing color transitions
 
----
-
-This README.md content should effectively convey the purpose and functionality of your project, making it appealing to potential contributors or those interested in creative coding.
